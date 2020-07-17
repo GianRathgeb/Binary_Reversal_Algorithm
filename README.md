@@ -1,4 +1,7 @@
 # ReverseNumberAlgorithm
+
+This code was my result of a coding challange.
+
 ## Coding Challange
 
 This Algorith tranlsates a Number into the binary number system.
